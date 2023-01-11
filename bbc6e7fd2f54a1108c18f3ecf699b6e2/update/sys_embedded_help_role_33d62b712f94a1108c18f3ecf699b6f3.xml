@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_961102_wish_list.user" name="x_961102_wish_list.user">bfd6a7712f94a1108c18f3ecf699b6b3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-11 01:39:08</sys_created_on>
+        <sys_id>33d62b712f94a1108c18f3ecf699b6f3</sys_id>
+        <sys_name>bfd6a7712f94a1108c18f3ecf699b6b3</sys_name>
+        <sys_package display_value="Wish List" source="x_961102_wish_list">bbc6e7fd2f54a1108c18f3ecf699b6e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">bbc6e7fd2f54a1108c18f3ecf699b6e2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_33d62b712f94a1108c18f3ecf699b6f3</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
